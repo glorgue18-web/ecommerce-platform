@@ -3,4 +3,5 @@ numpy>=2.1
 scikit-learn>=1.5
 matplotlib>=3.9
 seaborn>=0.13
+statsmodels==1.2.0
 jupyter>=1.1
